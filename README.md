@@ -7,6 +7,9 @@
 ![alt text](https://github.com/ahmedazab1235/plotly_dash_football_player_dashboard/blob/main/Screen%20Shot%202021-10-30%20at%201.21.48%20AM.png?raw=true)
 
 
+![alt text](https://github.com/ahmedazab1235/plotly_dash_football_player_dashboard/blob/main/Screen%20Shot%202021-11-09%20at%207.01.59%20AM.png?raw=true)
+
+
 The datasets provided include the players data for the Career Mode from FIFA 15 to FIFA 21 ("players_21.csv"). The data allows multiple comparison of the same players across the last 7 version of the videogame.
 
 Some ideas of possible analysis:
